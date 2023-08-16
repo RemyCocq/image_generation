@@ -1,0 +1,7 @@
+accelerate
+diffusers
+invisible-watermark>=0.2.0
+ipywidget
+jupyterlab
+safetensors
+transformers
