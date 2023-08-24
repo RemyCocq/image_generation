@@ -39,7 +39,7 @@ Run `pip install -r requirements.txt`
 
 ## 3. Run jupyter lab
 
-Run `python -m jupyter lab`
+Run `python -m jupyterlab`
 
 # See more
 
